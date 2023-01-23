@@ -17,7 +17,7 @@ Books are pretty good source for learning C/C++ from scratch. [C++](/files/Cpp%2
 ## 2. Embedded C (Nothing but C, except few things)
 Depends on what microcontroller you're using
  - Build tools
- - Macros
+ - Preprocessor (Macros)
  - Memory layout
 
 I have no available source for these topics. You shoud go into source code or search on internet for that. Sorry :(
