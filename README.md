@@ -75,6 +75,8 @@ Yes. MCUs can have OS (Operating System) like free-RTOS. But unlike Windows or M
  - Scheduler (Kernel)
 
 ## 8. Memory management
-Just don't use dynamic memory allocation. :) Joke!<br>
+Just don't use dynamic memory allocation. Joke!<br>
 If I said this to some devs. They would k*ll me. Yes dynamic memory allocation is necessary.
-But the main problem of memory management is **DYNAMIC** memory allocation. You need to be careful about your memory usage. Specially in embedded world. We have so much little space for storing the '\n' a.k.a the NULL character. So that's it. This is my road map for learning Embedded system the HARD WAY.
+But the main problem of memory management is **DYNAMIC** memory allocation. You need to be careful about your memory usage. Specially in embedded world. We have so much little space for storing the '\n' a.k.a the NULL character. So you need to collect your garbage by yourself. :)<br>
+
+So that's it. This is my road map for learning Embedded system the HARD WAY.
