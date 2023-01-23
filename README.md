@@ -7,8 +7,8 @@
  - Bit wise operations (AND, OR, XOR, Bit shift)
  - Function
  - POINTER (Pointer arithmetic, Array)
- - Static and Dynamic memory allocation/deallocation (Heap Segmentation, Stuck Overflow)
- - Memory structure (Heap, Stuck, Text segment, ...)
+ - Static and Dynamic memory allocation/deallocation (Heap Segmentation, Stack Overflow)
+ - Memory structure (Heap, Stack, Text segment, ...)
  - Code design (Header files, Macros)
  - Algorithm and Data structure
 
