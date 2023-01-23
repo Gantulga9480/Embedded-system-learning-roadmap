@@ -79,4 +79,4 @@ Just don't use dynamic memory allocation. Joke!<br>
 If I said this to some devs. They would k*ll me. Yes dynamic memory allocation is necessary.
 But the main problem of memory management is **DYNAMIC** memory allocation. You need to be careful about your memory usage. Specially in embedded world. We have so much little space for storing the '\n' a.k.a the NULL character. So you need to collect your garbage by yourself. :)<br>
 
-So that's it. This is my road map for learning Embedded system the HARD WAY.
+So that's it for now. This is my road map for learning Embedded system the **HARD WAY** for beginners.
