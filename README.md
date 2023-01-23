@@ -46,7 +46,7 @@ Here's my training combo for AVR Atmega32 MCU.
 ![mcu-combo](/imgs/mcu-combo.jpg)
 
 #### Examples
-I'm planning to add some basic example code for programming Atmega32 MCU. So stay tuned!
+I'm planning to add some basic example code for programming Atmega32 MCU with circuit diagram. So stay tuned!
 
 ## 5. Dive deeper into MCUs
 Almost all MCUs have these peripherals and features, but the implementation is different. So you need something like [this](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmega32A-DataSheet-Complete-DS40002072A.pdf).
